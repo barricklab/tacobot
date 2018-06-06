@@ -1,6 +1,10 @@
 #Secret token
 secret.txt
 
+#Database items
+taco_users.pkl
+taco.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
